@@ -1,0 +1,29 @@
+pjisp-assignment-template 1.1.1 (October 29 2019)
+=================================================
+
+Bugfixes
+--------
+
+    * Add a.out to .gitignore.
+
+    * Updated README.rst with improved `{GROUP_ID}` description
+
+pjisp-assignment-template 1.1.0 (October 27 2019)
+=================================================
+
+Feature additions
+-----------------
+
+    * Added an internal Makefile target for updating project dependencies.
+
+    * Added Docker support.
+
+Refactoring
+-----------
+
+    * Made all Makefile variables "lazy".
+
+pjisp-assignment-template 1.0.0 (October 25 2019)
+=================================================
+
+    * Initial release.
